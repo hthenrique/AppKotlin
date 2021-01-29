@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryLight">#80d6ff</color>
+    <color name="colorPrimary">#42a5f5</color>
+    <color name="colorPrimaryDark">#0077c2</color>
+    <color name="secondaryLight">#484848</color>
+    <color name="colorSecondary">#212121</color>
+    <color name="colorSecondaryDark">#000000</color>
+    <color name="acceptColorPrimary">#01f00a</color>
+    <color name="acceptColorSecondary">#51B855</color>
+    <color name="cancelColorPrimary">#E41E1E</color>
+    <color name="cancelColorSecondary">#440101</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="buttonColorPrimary">#b80bbf</color>
+    <color name="buttonColorSecondary">#0050ff</color>
+    <color name="button"></color>
+</resources>
